@@ -11,8 +11,11 @@ This project is built to practice **mobile development**, **navigation**, and **
 - 📸 Profile picture displayed in a circle  
 - 📝 Personal bio and details  
 - 📂 Organized navigation (About Page)  
-- ⚡ Built with Expo (easy testing on emulator or real device)  
-
+- ⚡ Built with Expo (easy testing on emulator or real device)
+## ✨ Features Updates
+- 📸 Setting page to edit Profiles 
+- 📝 Edit Personal bio and details  
+- 📂 Organized navigation (About Page) including Auth & setting Tabs 
 ---
 
 ## 🛠️ Tech Stack
