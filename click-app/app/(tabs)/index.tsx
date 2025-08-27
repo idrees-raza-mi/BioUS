@@ -28,14 +28,14 @@ const styles = StyleSheet.create({
   },
   profileImage: {
     width: 250,
-    height: 350,
+    height: 320,
     borderRadius: 60, 
-    marginBottom: 30,
+    marginBottom: 0,
   },
   name: {
     fontSize: 54,
     fontWeight: 'bold',
-    marginBottom: 20,
+    marginBottom: 10,
     color: '#efefefff',
   },
   bio: {
